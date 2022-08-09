@@ -109,4 +109,4 @@ Function files used to run various tests on the _printf Function.
 
 Authors
 kevin comba gatimu  kelchospense88@gmail.com
-Chidinma Iheaturu
+Chidinma Iheaturu   danielleiheaturu@gmail.com
